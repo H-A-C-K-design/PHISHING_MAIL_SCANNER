@@ -1,1 +1,0 @@
-"""Phishing email detection package."""
